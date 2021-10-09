@@ -23,10 +23,13 @@ $ make run
 - hexedit
 
 - apktool
+- jadx
 - dex2jar
+- zipalign
 
 - nmap
 - tshark
+- mitmproxy
 
 - exiftool
 
