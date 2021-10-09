@@ -30,6 +30,7 @@ RUN DEBIAN_FRONTEND=noninteractive apt-get install -y tshark
 RUN apt-get install -y john
 RUN apt-get install -y sqlmap
 RUN apt-get install -y hashcat
+RUN apt-get install -y mitmproxy
 
 
 CMD ["/bin/bash"]
