@@ -14,6 +14,7 @@ $ make run
 ## Tools
 - tmux
 - vim
+- curl
 - wget
 - git
 - python
