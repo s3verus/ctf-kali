@@ -19,6 +19,8 @@ $ make run
 - git
 - python
 
+- pwnlib
+
 - gdb
 - radare2
 - hexedit
@@ -36,5 +38,6 @@ $ make run
 
 - John the Ripper
 - hashcat
+- hydra
 
 - sqlmap
