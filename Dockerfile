@@ -36,6 +36,7 @@ RUN apt-get install -y hashcat
 RUN apt-get install -y sqlmap
 RUN apt-get install -y hydra
 RUN pip3 install pwnlib
+RUN apt-get install -y binwalk
 
 
 CMD ["/bin/bash"]
