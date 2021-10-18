@@ -35,6 +35,7 @@ $ make run
 - mitmproxy
 
 - exiftool
+- binwalk
 
 - John the Ripper
 - hashcat
